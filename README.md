@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Festus Kirui a full Stack Software Engineer.
+- 👋 Hi, I’m Festus Kirui a full Stack Software developer.
 - 👀 I’m interested in handling both backend and frontend web and mobile applications.
-- 🌱 I’m currently improving my skills on node js, react and flutter.
-- 💞️ I’m looking to collaborate on both backend and frontend applications development using node js, next.js, django, react and flutter.
+- 🌱 I’m currently improving my skills on .Net and Spring.
+- 💞️ I’m looking to collaborate on both backend and frontend applications development using node js, django, react, flutter and PHP.
 - 📫 Anyone can reach through my email at festaskirui@gmail.com or whatsaap +254798663646.
 
 <!---
