@@ -2,7 +2,7 @@
 - 👀 I’m interested in handling both backend and frontend web and mobile applications.
 - 🌱 I’m currently improving my skills on .Net and Spring.
 - 💞️ I’m looking to collaborate on both backend and frontend applications development using node js,Next Js, React Js, django, golang, flutter,Java, Spring boot, Laravel, Codeigniter and PHP.
-- 📫 Anyone can reach through my email at festaskirui@gmail.com or whatsaap +254798 663646.
+- 📫 Anyone can reach through my email at festaskirui@gmail.com.
 
 <!---
 Festorz/Festorz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
